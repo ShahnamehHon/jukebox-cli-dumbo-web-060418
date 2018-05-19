@@ -47,7 +47,7 @@ end
   #if it is, play the song using the system 'open <file path>' syntax
   #get the file path of the song by looking it up in the my_songs hash
   
-end
+
 
 def exit_jukebox
   puts "Goodbye"
